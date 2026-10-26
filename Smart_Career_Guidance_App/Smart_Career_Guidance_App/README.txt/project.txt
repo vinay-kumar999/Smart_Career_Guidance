@@ -1,0 +1,12 @@
+Project Title: Smart Career Guidance App Using Data Science
+
+Description:
+This project helps students choose suitable career paths based on
+their academic performance, skills, and interests using machine learning.
+
+Technology Used:
+Python, Pandas, Scikit-learn, Flask, HTML, CSS
+
+Team Members:
+Member 1: Dataset, ML Model, Backend
+Member 2: Frontend, UI, Documentation
